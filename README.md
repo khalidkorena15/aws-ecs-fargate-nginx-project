@@ -28,16 +28,13 @@ This project demonstrates a production-ready, **containerized** web service arch
 ## 📸 Implementation Gallery
 
 ### 1. Web Service Live Demo
-This shows the Nginx application successfully reachable through the Load Balancer DNS.
-![App Demo]("D:\aws-ecs-fargate-nginx-project\screenshots\Nginx.png")
+![App Demo](./screenshots/nginx-demo.png)
 
 ### 2. ECS Service & Task Status
-Verification that the service is `ACTIVE` and the tasks are `RUNNING` on Fargate.
-![ECS Status](./screenshots/ecs-service.png)
+![ECS Status](./screenshots/ecs-status.jpg)
 
 ### 3. Monitoring & Logs (CloudWatch)
-Evidence of real-time traffic monitoring and container logs.
-![CloudWatch Logs]("D:\aws-ecs-fargate-nginx-project\screenshots\Logs.png")
+![CloudWatch Logs](./screenshots/cloudwatch-logs.jpg)
 
 ---
 
