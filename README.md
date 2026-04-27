@@ -28,13 +28,13 @@ This project demonstrates a production-ready, **containerized** web service arch
 ## 📸 Implementation Gallery
 
 ### 1. Web Service Live Demo
-![App Demo](./screenshots/nginx-demo.png)
+![App Demo](./screenshots/nginx-demo.png.png)
 
 ### 2. ECS Service & Task Status
-![ECS Status](./screenshots/ecs-status.jpg)
+![ECS Status](./screenshots/ecs-status.jpg.png)
 
 ### 3. Monitoring & Logs (CloudWatch)
-![CloudWatch Logs](./screenshots/cloudwatch-logs.jpg)
+![CloudWatch Logs](./screenshots/cloudwatch-logs.png)
 
 ---
 
